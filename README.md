@@ -136,9 +136,9 @@ int main() {
 
 ## OUTPUT
 
-<img width="671" height="439" alt="ex 06" src="https://github.com/user-attachments/assets/0e16b4c5-34ee-4ef3-a884-5f6718d37c4a" />
+![alt text](image.png)
 
-<img width="1032" height="717" alt="ex 006" src="https://github.com/user-attachments/assets/3e57156a-58a3-49d8-b217-d2dc690a8746" />
+![alt text](image-1.png)
 
 # RESULT:
 The program is executed successfully.
